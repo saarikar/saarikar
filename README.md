@@ -6,7 +6,7 @@ Building AI systems at the intersection of code, biology, and real-world impact 
 
 ## About
 
-- B.Tech Computer Science (Bioinformatics), VIT Vellore — CGPA 9.00, expected May 2027
+- B.Tech Computer Science (Bioinformatics), VIT Vellore — CGPA 9.01, expected May 2027
 - Software Development Intern @ **BeKindDoGood Foundation** — building a full-stack AI app to detect and report stray dogs, now prepping for pilot across a 200,000+ user base
 - Team Captain, **Team RotorFPV** — led the team to 1st place at SPROS ISDC (international drone competition) in consecutive years at BITS Goa and MIT Manipal
 - Previously Software Development Intern @ PepSales — built an AI chatbot and real-time apps with Flask-SocketIO
