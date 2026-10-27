@@ -21,6 +21,7 @@ Building AI systems at the intersection of code, biology, and real-world impact 
 
 | Project | Description | Tech |
 |---|---|---|
+| [AfroTB Phylo-GNN AMR Predictor](https://github.com/saarikar/AfroTB-phylo-GNN-AMR-predictor) | Phylogeny-aware graph neural network that jointly predicts tuberculosis drug resistance and *M. tuberculosis* lineage on the Afro-TB dataset | Python, PyTorch Geometric, scikit-learn, XGBoost |
 | [PawTrace](https://github.com/saarikar/pawtrace) | Full-stack AI app to detect and report stray dogs for a dog welfare nonprofit — vision-LLM breed/health classification + GPS mapping | React, Supabase, Vercel, Vision LLM |
 | [AuditGuard AI](https://github.com/saarikar/auditguard-ai) | Automated compliance auditing pipeline for regulatory documents and vendor contracts — low-confidence results are routed to a human compliance officer, and every decision is logged | FastAPI, n8n, PostgreSQL, Docker, RAGAS |
 | [TestGen-AI](https://github.com/saarikar/testgenai) | Generates pytest suites for submitted code, runs them with coverage, stores run history, and evaluates AI-generated tests against correct and buggy code | FastAPI, LangChain, Groq, SQLAlchemy, Docker, GitHub Actions |
